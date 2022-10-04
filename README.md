@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitisha1004
-- 👀 I’m interested in coding, Full stack web development
-- 🌱 I’m currently learning jAVA, HTML, DSA(JAVA)
+- 👀 I’m passionate about coding and aspire to be a Full stack webdeveloper.
+- 🌱 I’m currently learning jAVA, HTML, DSA(JAVA) and after having command on these technology i will learn JS with REACTJS FRAMEWROK, TABLEAU, SQL, MONGODB etc.
 - 📫 My Mail Id: nitisha100@gmail.com
 
 <!---
