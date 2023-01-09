@@ -1,5 +1,5 @@
-# 💫Hi I AM NITISHA
-# A PASSIONATE FULL STACK DEVELOPER
+#                                                                   💫HI I AM NITISHA
+#                                                           A PASSIONATE FULL STACK DEVELOPER!
 🔭 I’m currently working on web development project<br>👯 I’m looking to collaborate on with full stack developers<br>🌱 I’m currently learning java script, boost strap, data visualization<br> I am currently doing 100 days of Code Challeneg<br>💬 Ask me about java and data visualization<br>Reach me at: nitisha1004@gmail.com<br><br>
 
 
