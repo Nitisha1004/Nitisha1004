@@ -1,6 +1,6 @@
 #                                                                   💫HI I AM NITISHA
 #                                                           A PASSIONATE FULL STACK DEVELOPER!
-🔭 I’m currently working on web development project<br>👯 I’m looking to collaborate on with full stack developers<br>🌱 I’m currently learning java script, boost strap, Tableau <br> I am currently doing 100 days of Code Challenge<br>💬 Ask me about java and data visualization<br>Reach me at: nitisha1004@gmail.com<br><br>
+🔭 I’m currently working on web development project<br>👯 I’m looking to collaborate on with full stack developers<br>🌱 I’m currently learning java script, bootstrap, Tableau <br> I am currently doing 100 days of Code Challenge<br>💬 Ask me about java and data visualization<br>Reach me at: nitisha1004@gmail.com<br><br>
 
 
 ## 🌐 Socials:
